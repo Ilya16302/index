@@ -1,0 +1,24 @@
+﻿{
+    "updatedAt":  "2026-03-25T08:26:48",
+    "builder":  "vba-engine",
+    "source":  "macro Full.Кнопка_обновления",
+    "appVersion":  "V3.3.6",
+    "timings":  {
+                    "mirror_sec":  42.69,
+                    "vba_update_sec":  142.62,
+                    "export_wb_sec":  8.6,
+                    "export_opory_sec":  0.49,
+                    "export_lr_sec":  0.09,
+                    "export_welders_sec":  0.01,
+                    "export_zra_sec":  0.07
+                },
+    "stats":  {
+                  "wb_rows":  431096,
+                  "opory_rows":  163457,
+                  "lr_rows":  9872,
+                  "welders_rows":  1498,
+                  "zra_rows":  27044
+              },
+    "packageHash":  "b5c9a00de899bf3077e720127511762f114f316b0e8fb9423c03443138ec795b",
+    "version":  "20260325-082649"
+}
